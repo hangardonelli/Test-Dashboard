@@ -36,6 +36,7 @@ El dashboard consiste en una serie de 8 gráficos relacionados a la pandemia del
  - Gráfico de dona / Denota el estado de los infectados (cuantos siguen enfermos, contagiados y recuperados)
  
 **Funciones de depuración**
+-
 Los gráficos, pueden ser re-generados sin recargar la página y sin la necesidad, si se quiere, de hacer consultas AJAXs a la base de datos. Existen estas funciones para ejecutarlas desde la consola del navegador:
  - **setFirstDoseValue(population):** cambia la cantidad de personas que se dieron la primer dosis de la vacuna
  - **setSecondDoseValue(population)**: cambia la cantidad de personas que se dieron la segunda dosis de la vacuna
