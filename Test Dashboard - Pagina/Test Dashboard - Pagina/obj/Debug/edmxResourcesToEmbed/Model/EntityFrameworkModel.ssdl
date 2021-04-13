@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Infectados">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="FechaDeUltimoEstado" Type="date" Nullable="false" />
+    <Property Name="Edad" Type="int" Nullable="false" />
+    <Property Name="Sexo" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="Estado" Type="char" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="InformesDiarios">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="date" />
+    <Property Name="Contagios" Type="int" Nullable="false" />
+    <Property Name="Fallecimientos" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OcupacionUTIs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Seccion" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Camas totales" Type="int" Nullable="false" />
+    <Property Name="Camas usadas" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DatabaseModelStoreContainer">
+    <EntitySet Name="Infectados" EntityType="Self.Infectados" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="InformesDiarios" EntityType="Self.InformesDiarios" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OcupacionUTIs" EntityType="Self.OcupacionUTIs" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

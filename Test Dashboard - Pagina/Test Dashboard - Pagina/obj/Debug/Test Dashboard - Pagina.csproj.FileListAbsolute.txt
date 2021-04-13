@@ -1,0 +1,53 @@
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\obj\Debug\Test Dashboard - Pagina.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\obj\Debug\Test Dashboard - Pagina.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\Test Dashboard - Pagina.dll.config
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\Test Dashboard - Pagina.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\Test Dashboard - Pagina.pdb
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\csc.exe
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\csc.exe.config
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\csc.rsp
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\csi.exe
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\csi.rsp
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\vbc.exe
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\vbc.rsp
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.Helpers.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.Mvc.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.Razor.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.WebPages.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.Helpers.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.Mvc.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.Razor.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.WebPages.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\obj\Debug\Test Dashboard - Pagina.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\obj\Debug\Test Dashboard - Pagina.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\obj\Debug\Test Dashboard - Pagina.pdb
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\EntityFramework.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\EntityFramework.xml
+C:\Users\Usuario\source\repos\Test Dashboard - Pagina\Test Dashboard - Pagina\bin\EntityFramework.SqlServer.xml

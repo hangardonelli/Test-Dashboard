@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseModelStoreContainer" CdmEntityContainer="Database">
+    <EntitySetMapping Name="Infectados">
+      <EntityTypeMapping TypeName="DatabaseModel.Infectados">
+        <MappingFragment StoreEntitySet="Infectados">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FechaDeUltimoEstado" ColumnName="FechaDeUltimoEstado" />
+          <ScalarProperty Name="Edad" ColumnName="Edad" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InformesDiarios">
+      <EntityTypeMapping TypeName="DatabaseModel.InformesDiarios">
+        <MappingFragment StoreEntitySet="InformesDiarios">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Contagios" ColumnName="Contagios" />
+          <ScalarProperty Name="Fallecimientos" ColumnName="Fallecimientos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OcupacionUTIs">
+      <EntityTypeMapping TypeName="DatabaseModel.OcupacionUTIs">
+        <MappingFragment StoreEntitySet="OcupacionUTIs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Seccion" ColumnName="Seccion" />
+          <ScalarProperty Name="Camas_totales" ColumnName="Camas totales" />
+          <ScalarProperty Name="Camas_usadas" ColumnName="Camas usadas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

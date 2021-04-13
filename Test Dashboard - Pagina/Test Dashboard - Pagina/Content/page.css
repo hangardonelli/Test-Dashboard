@@ -1,0 +1,36 @@
+.Dose-Container{
+	margin: 2%;
+	margin-bottom: 8%;
+   
+}
+progress {
+    width: 100%;
+  
+    height: 30px;
+    background-color: #408043;
+}
+
+
+.container {
+    background-color: #dddddd;
+    margin-bottom: 10px;
+    padding-bottom: 2%;
+}
+
+h1, h2 {
+    margin-top: 10px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+
+header {
+    text-align: center;
+    background-color: #101010;
+    color: #dddddd;
+  
+}
+.row {
+    margin-bottom: 10px;
+}
+

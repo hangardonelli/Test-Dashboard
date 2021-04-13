@@ -1,0 +1,21 @@
+﻿#vaccinated {
+    font-size: 20px;
+}
+
+    #vaccinated a {
+        font-size: 40px;
+    }
+
+progress#vaccinated-bar::-webkit-progress-value {
+    background-color: #337ab7;
+}
+
+progress#vaccinated-bar::-webkit-progress-bar {
+    background-color: #d8dada;
+}
+
+progress {
+    width: 100%;
+    height: 30px;
+    background-color: #ff0000;
+}
