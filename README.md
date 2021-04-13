@@ -36,8 +36,8 @@ El dashboard consiste en una serie de 8 gráficos relacionados a la pandemia del
  
 **Funciones de depuración**
 Los gráficos, pueden ser re-generados sin recargar la página y sin la necesidad, si se quiere, de hacer consultas AJAXs a la base de datos. Existen estas funciones para ejecutarlas desde la consola del navegador:
- - **setFirstDoseValue(population: int):** cambia la cantidad de personas que se dieron la primer dosis de la vacuna
- - **setSecondDoseValue(population: int)**: cambia la cantidad de personas que se dieron la segunda dosis de la vacuna
+ - **setFirstDoseValue(population):** cambia la cantidad de personas que se dieron la primer dosis de la vacuna
+ - **setSecondDoseValue(population:)**: cambia la cantidad de personas que se dieron la segunda dosis de la vacuna
  - **reloadCasesChart(todayNumber, yesterdayNumber, beforeYesterdayNumber)**: modifica el gráfico de casos en los últimos 3 días
  - **reloadDeathsChart(todayNumber, yesterdayNumber, beforeYesterdayNumber)**: modifica el gráfico de fallecimientos en los últimos 3 días
  - **reloadAgeDeathsChart(group0_9, group10_39, group40_79, group_80)**: modifica el gráfico de muertes diferenciadas por grupo etario.
