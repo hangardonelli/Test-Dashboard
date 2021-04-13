@@ -1,4 +1,4 @@
-# Dashboard - COVID-19
+# Test dashboard
 
 Repositorio del test del dashboard
 
@@ -43,7 +43,19 @@ Los gráficos, pueden ser re-generados sin recargar la página y sin la necesida
  - **reloadUTIUsageChart(ambaPercentage, bsasPercentage, restPercentage)**: modifica el gráfico de ocupación de UTIs 
  - **reloadHealthResultsChart(sicks, deaths, recovereds)**: modifica el gráfico del estado de los infectados
  - **reloadGenderDeathsChart(maleDeaths, femaleDeaths)**: modifica el gráfico que muestra las muertes diferenciadas por sexo
- 
+
+
+**Llamadas**
+El programa, para obtener la información, hace llamadas a controladores. La respuesta siempre es en JSON
+ - GET **/Vaccines**: devuelve la cantidad de personas vacunadas con la primer y segunda dosis. El valor de la segunda dosis siempre será inferior al valor de la primera. Inicialmente, estos datos eran obtenidos de la página oficial del Ministerio de Salud analizando las etiquetas div y encontrar el número y parsearlo, sin embargo, a último momento cambiaron la estructura de la página y decidí que los valores sean aleatorios (siempre respetando la condición dicha al principio.
+ - GET **/MedicalReport**: devuelve un reporte de infectados y contagiados en los últimos 3 días.
+ - GET **/UTIUsage**: devuelve la cantidad de camas UTI usadas y totales en el AMBA, Prov. de Buenos Aires y el resto del país.
+ - GET **/Sicks**: devuelve la cantidad de muertes por grupo etario, cantidad de muertes por genero, y estado de los infectados (enfermos, fallecidos y recuperados)
+
+
+**Base de datos**
+![Organización de tablas](https://i.ibb.co/0B8jN35/Base-De-Datos-Test-Dashboard.png)
+*Aclaración: las filas introducidas en las tablas InformesDiarios e Infectados fueron completamente aleatorias (las agregué con un script para generar datos aleatorios) por lo que no tienen ninguna relación con la realidad de la pandemia en Argentina.* 
  
 
  
