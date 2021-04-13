@@ -22,6 +22,7 @@ Repositorio del test del dashboard
  
 
 **Temática**
+-
 El dashboard consiste en una serie de 8 gráficos relacionados a la pandemia del virus SARS-COV-2 en Argentina.
 
 **Gráficos**
@@ -46,6 +47,7 @@ Los gráficos, pueden ser re-generados sin recargar la página y sin la necesida
 
 
 **Llamadas**
+-
 El programa, para obtener la información, hace llamadas a controladores. La respuesta siempre es en JSON
  - GET **/Vaccines**: devuelve la cantidad de personas vacunadas con la primer y segunda dosis. El valor de la segunda dosis siempre será inferior al valor de la primera. Inicialmente, estos datos eran obtenidos de la página oficial del Ministerio de Salud analizando las etiquetas div y encontrar el número y parsearlo, sin embargo, a último momento cambiaron la estructura de la página y decidí que los valores sean aleatorios (siempre respetando la condición dicha al principio.
  - GET **/MedicalReport**: devuelve un reporte de infectados y contagiados en los últimos 3 días.
