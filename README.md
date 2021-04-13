@@ -1,4 +1,4 @@
-# Test dashboard
+# Dashboard - COVID-19
 
 Repositorio del test del dashboard
 
