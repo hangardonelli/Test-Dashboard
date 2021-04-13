@@ -30,7 +30,8 @@ El dashboard consiste en una serie de 8 gráficos relacionados a la pandemia del
  - Progressbar / Denota el porcentaje de la población vacunada hasta la fecha con la segunda dosis
  - Gráfico de líneas / Denota el reporte de contagios en los últimos 3 días
  - Gráfico de lineas / Denota el reporte de defunciones en los últimos 3 días
- - Gráfico de torta / Denota la diferencia de fallecimientos discriminadas por sexo
+ - Gráfico de barras / Denota las derunciones diferenciadas por grupo etario 
+- Gráfico de torta / Denota la diferencia de fallecimientos discriminadas por sexo
  - Gráfico polar / Denota el porcentaje de camas de Unidad de Terapia Intensiva (UTIs en el programa) disponibles en el AMBA, Provincia de Buenos Aires y resto del país
  - Gráfico de dona / Denota el estado de los infectados (cuantos siguen enfermos, contagiados y recuperados)
  
