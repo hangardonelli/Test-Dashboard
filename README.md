@@ -57,6 +57,7 @@ El programa, para obtener la información, hace llamadas a controladores. La res
  - 
 
 ![Organización de tablas](https://i.ibb.co/0B8jN35/Base-De-Datos-Test-Dashboard.png)
+-
 *Aclaración: las filas introducidas en las tablas InformesDiarios e Infectados fueron completamente aleatorias (las agregué con un script para generar datos aleatorios) por lo que no tienen ninguna relación con la realidad de la pandemia en Argentina.* 
  
 
